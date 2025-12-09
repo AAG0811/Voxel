@@ -1,0 +1,16 @@
+Shading - done
+Collision - done
+Fix camera movement - done
+skybox - done
+perlin noise generation
+terrain generation
+chunks
+block type
+trees
+biomes
+OCT_TREE
+volumetric fog/lights 
+light shafts
+voxel water simulation
+
+seperate scene func/class for rendering

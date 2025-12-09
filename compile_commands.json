@@ -1,0 +1,67 @@
+[
+  {
+    "arguments": [
+      "/usr/sbin/g++",
+      "-c",
+      "-Iinclude",
+      "-o",
+      "bin/main.o",
+      "src/main.cpp"
+    ],
+    "directory": "/home/user/Documents/projs/VoxelB",
+    "file": "/home/user/Documents/projs/VoxelB/src/main.cpp",
+    "output": "/home/user/Documents/projs/VoxelB/bin/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/sbin/g++",
+      "-c",
+      "-Iinclude",
+      "-o",
+      "bin/glad.o",
+      "src/glad.c"
+    ],
+    "directory": "/home/user/Documents/projs/VoxelB",
+    "file": "/home/user/Documents/projs/VoxelB/src/glad.c",
+    "output": "/home/user/Documents/projs/VoxelB/bin/glad.o"
+  },
+  {
+    "arguments": [
+      "/usr/sbin/g++",
+      "-c",
+      "-Iinclude",
+      "-o",
+      "bin/camera.o",
+      "src/camera.hpp"
+    ],
+    "directory": "/home/user/Documents/projs/VoxelB",
+    "file": "/home/user/Documents/projs/VoxelB/src/camera.hpp",
+    "output": "/home/user/Documents/projs/VoxelB/bin/camera.o"
+  },
+  {
+    "arguments": [
+      "/usr/sbin/g++",
+      "-c",
+      "-Iinclude",
+      "-o",
+      "bin/shader.o",
+      "src/shader.hpp"
+    ],
+    "directory": "/home/user/Documents/projs/VoxelB",
+    "file": "/home/user/Documents/projs/VoxelB/src/shader.hpp",
+    "output": "/home/user/Documents/projs/VoxelB/bin/shader.o"
+  },
+  {
+    "arguments": [
+      "/usr/sbin/g++",
+      "-c",
+      "-Iinclude",
+      "-o",
+      "bin/window.o",
+      "src/window.hpp"
+    ],
+    "directory": "/home/user/Documents/projs/VoxelB",
+    "file": "/home/user/Documents/projs/VoxelB/src/window.hpp",
+    "output": "/home/user/Documents/projs/VoxelB/bin/window.o"
+  }
+]
